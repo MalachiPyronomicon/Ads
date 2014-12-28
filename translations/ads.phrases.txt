@@ -1,0 +1,19 @@
+//	Ads
+//	Translation Configuration File
+//	By Shane A. ^BuGs^ Froebel
+//	Do not change the variable names or the script will fail!
+
+"Phrases"
+{
+
+	"Ads Console Loading"
+	{
+		"en"		"Loading"
+	}
+	
+	"Ads Console Version"
+	{
+		"en"		"Version"
+	}
+	
+}
